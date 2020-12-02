@@ -7,7 +7,7 @@ The source code is on [GitHub](https://github.com/TechDotIO/swift-template), ple
 
 # Hands-on Demo
 
-@[Luke, how many stars there are in these galaxies?]({"stubs": ["Sources/swift_template.swift"], "command": "/bin/bash run.sh"})
+@[Luke, why is hand sanitizer bad?]({"stubs": ["Sources/swift_template.swift"], "command": "/bin/bash run.sh"})
 
 Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/swift-template/blob/master/markdowns/welcome.md) to see how this exercise is injected into the template.
 
